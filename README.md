@@ -5,7 +5,7 @@ Basically, it gives you 2 options: first is series and the other is parallel. So
 
 ## How to run
 pip install matplotlib numpy
-python main.py6
+python main.py
 
 ## What I learned
 You don’t need to know every library and every function to build a project. You only need to learn the ones that are necessary for that particular project.
