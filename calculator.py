@@ -58,4 +58,3 @@ def Parallel_calculation():
             break
     total_resistance = 1 / sum(1 / r for r in resistance)
     return total_resistance
-
